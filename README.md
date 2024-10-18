@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">My main goal is to work remotely. Depending on the work/project I'll be working on, I can work with your company as "Backend", "Frontend" or "Full-Stack".</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanaksoydev&label=Profile%20views&color=0e75b6&style=flat" alt="furkanaksoydev" /> </p>
-
 - 📫 How to reach me **furkanaksoydev@gmail.com**
 
 <h3 align="left">Contact with me:</h3>
@@ -17,3 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanaksoydev&show_icons=true&locale=en&layout=compact" alt="furkanaksoydev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanaksoydev&show_icons=true&locale=en" alt="furkanaksoydev" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanaksoydev&label=Profile%20views&color=0e75b6&style=flat" alt="furkanaksoydev" /> </p>
