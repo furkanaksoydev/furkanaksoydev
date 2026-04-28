@@ -32,14 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkanaksoydev&show_icons=true&theme=radium&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanaksoydev&show_icons=true&theme=radium&layout=compact&hide_border=true" height="150" />
-</div>
-
----
-
 ### 📫 Let's Connect
 <p align="left">
   <a href="mailto:furkanaksoydev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
